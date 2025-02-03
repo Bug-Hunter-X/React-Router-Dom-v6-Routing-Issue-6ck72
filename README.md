@@ -1,0 +1,3 @@
+# React Router Dom v6 Routing Issue
+
+This repository demonstrates an uncommon bug encountered when using React Router Dom v6.  The issue involves unexpected behavior when navigating between routes.  The routes may not render correctly, or may render unexpected components. The solution involves verifying the route paths and components in the Routes component, and checking for any conflicting routes.
